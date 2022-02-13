@@ -20,8 +20,8 @@ body {
 header {
     display: flex;
     justify-content: center;
-    margin-top: 15px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 120px;
 }
 
 .header-content {
@@ -43,7 +43,6 @@ header p, h1 {
     height: 45vh;
     justify-content: center;
     align-items: center;    
-    margin-top: 100px;
     margin-bottom: -50px;
 }
 
