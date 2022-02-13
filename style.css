@@ -47,6 +47,10 @@ header p, h1 {
     margin-bottom: -50px;
 }
 
+/* Item Container Configs */
+
+/* Item Configs */
+
 .item {
     display: flex;
     flex-direction: column;
@@ -89,6 +93,8 @@ header p, h1 {
 .img img {
     width: 45px;
 }
+
+/* Item Configs */
 
 @media (max-width: 930px) {
     .container {
